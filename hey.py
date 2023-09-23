@@ -1,0 +1,5 @@
+print('enter your name')
+username=input()
+print('enter your age')
+age=input()
+print('welcome'+username+'.'+'you look good'+age+'.')
